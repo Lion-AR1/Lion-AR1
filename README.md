@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdullah, my nickname "lion"</h1>
 <h3 align="center">developer from Yemen</h3>
 
-- 📫 How to reach me **aomb320@gmail.com Or Discord :Lion.#8991**
+- 📫 How to reach me **aomb320@gmail.com Or Discord : `Lion.#8991`**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
