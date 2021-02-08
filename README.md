@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdullah, my nickname "lion"</h1>
 <h3 align="center">developer from Yemen</h3>
 
-- 📫 How to reach me **aomb320@gmail.com Or Discord : ** <p>
-<a href="https://discord.com/users/320015606071951360" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="lion." height="30" width="40" /></a>
+- 📫 How to reach me **aomb320@gmail.com Or Discord : ** <p> <a href="https://discord.com/users/320015606071951360" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="lion." height="30" width="40" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
