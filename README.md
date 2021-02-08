@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah, My Nickname "Lion"</h1>
-<i class="fas fa-code"></i><h3 align="center">Developer From Yemen<</h3>
+<i class="fas fa-code"></i> <h3 align="center">Developer From Yemen</h3>
 
 - 📫 How to reach me **aomb320@gmail.com**
 
