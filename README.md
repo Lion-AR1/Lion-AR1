@@ -10,13 +10,7 @@
 
 <p align="left">
 
-<a href="https://discord.com/users/320015606071951360" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="lion." height="30" width="40" /></a>
-
-<a href="https://twitter.com/lion_ar1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="lion_ar1" height="30" width="40" /></a>
-
-<a href="https://instagram.com/qd.02" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="qd.02" height="30" width="40" /></a>
-
-<a href="https://www.youtube.com/c/lion" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="lion" height="30" width="40" /></a>
+<a href="https://discord.com/users/320015606071951360" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="lion." height="30" width="40" /></a> <a href="https://twitter.com/lion_ar1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="lion_ar1" height="30" width="40" /></a> <a href="https://instagram.com/qd.02" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="qd.02" height="30" width="40" /></a> <a href="https://www.youtube.com/c/lion" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="lion" height="30" width="40" /></a>
 
 </p>
 
